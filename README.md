@@ -1,0 +1,16 @@
+# 🐍 100 Days of Algorithms (Python)
+
+Welcome to my journey of mastering Data Structures and Algorithms! This repository tracks my daily progress, problem-solving logic, and Python implementations.
+
+## The Goal
+Solve at least one LeetCode or DSA problem every day for 100 days to build strong problem-solving habits.
+
+##  Progress Tracker
+
+| Day | Problem Name | Topic | Solution |
+| :--- | :--- | :--- | :--- |
+| Day 1 | Median of Two Sorted Arrays| Arrays | [Code](./Day%201/arr04.py) |
+| Day 2 | TBD | TBD | [Code]() |
+
+---
+*Follow my progress as I level up my coding skills!*

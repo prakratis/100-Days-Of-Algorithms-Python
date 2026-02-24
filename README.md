@@ -10,6 +10,7 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day | Problem Name | Topic | Solution |
 | :--- | :--- | :--- | :--- |
 | Day 1 | Median of Two Sorted Arrays| Arrays | [Code](./Day%201/arr04.py) |
+| Day 1| Longest Common Prefix | Arrays | [Code](./Day%201/arr14.py) |
 | Day 2 | TBD | TBD | [Code]() |
 
 ---

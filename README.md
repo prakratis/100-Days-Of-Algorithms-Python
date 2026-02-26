@@ -12,10 +12,10 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 1 | Median of Two Sorted Arrays| Arrays | [Code](./Day%201/arr04.py) |
 | Day 1| Longest Common Prefix | Arrays | [Code](./Day%201/arr14.py) |
 | Day 2 |  Remove Duplicates from Sorted Array | Arrays| [Code](./Day%202/arr26.py) |
+| Day 2 |  Remove Element | Arrays| [Code](./Day%202/arr27.py) 
 | Day 3 |  Rotate Array | Arrays| [Code]() |
 | Day 2 |  Find First and Last Position of Element in Sorted Array| Arrays| [Code]() |
 | Day 2 |  Longest Substring Without Repeating Characters | Arrays| [Code]() |
-| Day 3 |  Remove Element | Arrays| [Code]() |
 | Day 3 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 3 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 3 |  Missing Number | Arrays| [Code]() |

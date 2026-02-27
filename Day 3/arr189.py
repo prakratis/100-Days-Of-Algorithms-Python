@@ -6,3 +6,6 @@ class Solution:
         for _ in range (0 , r):
             e = nums.pop()
             nums.insert( 0 , e)
+
+#Better Solution
+#Optimal Solution

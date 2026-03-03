@@ -14,17 +14,18 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 2 |  Remove Duplicates from Sorted Array | Arrays| [Code](./Day%202/arr26.py) |
 | Day 2 |  Remove Element | Arrays| [Code](./Day%202/arr27.py) 
 | Day 3 |  Rotate Array | Arrays| [Code](./Day%203/arr189.py) |
-| Day 3 |  Find First and Last Position of Element in Sorted Array| Arrays| [Code]() |
-| Day 3 |  Longest Substring Without Repeating Characters | Arrays| [Code]() |
-| Day 3 |  Merge Sorted Array | Arrays| [Code]() |
-| Day 3 |  Merge Sorted Array | Arrays| [Code]() |
-| Day 3 |  Missing Number | Arrays| [Code]() |
-| Day 3 |  Max Consecutive Ones | Arrays| [Code]() |
-| Day 4 |  Merge Sorted Array | Arrays| [Code]() |
-| Day 4 |  Merge Sorted Array | Arrays| [Code]() |
-| Day 4 |  Merge Sorted Array | Arrays| [Code]() |
-| Day 4 |  Merge Sorted Array | Arrays| [Code]() |
-| Day 4 |  Merge Sorted Array | Arrays| [Code]() |
+| Day 3 |  Move Zeroes | Arrays| [Code](./Day%203/arr283.py) |
+| Day 4 |  Merge Sorted Array | Arrays| [Code](./Day%204/arr88.py) |
+| Day 4 |  Largest Number | Arrays| [Code](./Day%204/arr179.py) |
+| Day 5 |  Missing Number | Arrays| [Code](./Day%204/arr268.py) |
+| Day 5 |  Max Consecutive Ones | Arrays| [Code](./Day%205/arr485.py) |
+| Day 6 |  Single Number | Arrays| [Code](./Day%206/arr136.py) |
+| Day 6 |  Finding All Numbers Disappeared in an Array | Arrays| [Code](./Day%206.arr217.py) |
+| Day 7 |  Merge Sorted Array | Arrays| [Code]() |
+| Day 7 |  Merge Sorted Array | Arrays| [Code]() |
+| Day 8 |  Merge Sorted Array | Arrays| [Code]() |
+| Day 8 |  Find First and Last Position of Element in Sorted Array| Arrays| [Code]() |
+
 
 
 

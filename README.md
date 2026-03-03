@@ -20,7 +20,7 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 5 |  Missing Number | Arrays| [Code](./Day%204/arr268.py) |
 | Day 5 |  Max Consecutive Ones | Arrays| [Code](./Day%205/arr485.py) |
 | Day 6 |  Single Number | Arrays| [Code](./Day%206/arr136.py) |
-| Day 6 |  Merge Sorted Array | Arrays| [Code]() |
+| Day 6 |  Finding All Numbers Disappeared in an Array | Arrays| [Code](./Day%206.arr217.py) |
 | Day 7 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 7 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 8 |  Merge Sorted Array | Arrays| [Code]() |

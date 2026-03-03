@@ -18,9 +18,8 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 4 |  Merge Sorted Array | Arrays| [Code](./Day%204/arr88.py) |
 | Day 4 |  Largest Number | Arrays| [Code](./Day%204/arr179.py) |
 | Day 5 |  Missing Number | Arrays| [Code](./Day%204/arr268.py) |
-| Day 5 |  Longest Substring Without Repeating Characters | Arrays| [Code]() |
-| Day 5 |  Max Consecutive Ones | Arrays| [Code]() |
-| Day 6 |  Largest Number | Arrays| [Code]() |
+| Day 5 |  Max Consecutive Ones | Arrays| [Code](./Day%205/arr485.py) |
+| Day 6 |  Single Number | Arrays| [Code](./Day%206/arr136.py) |
 | Day 6 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 7 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 7 |  Merge Sorted Array | Arrays| [Code]() |

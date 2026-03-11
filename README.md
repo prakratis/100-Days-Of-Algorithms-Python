@@ -21,7 +21,7 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 5 | Max Consecutive Ones | Arrays | [Code](./Day%205/arr485.py) |
 | Day 6 | Single Number | Arrays | [Code](./Day%206/arr136.py) |
 | Day 6 | Contains Duplicate | Arrays | [Code](./Day%206/arr217.py) |
-| Day 7 |  Merge Sorted Array | Arrays| [Code]() |
+| Day 7 |  Find All The Numbers Dissapeared In Array | Arrays| [Code](./Day%207/arr448.py) |
 | Day 7 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 8 |  Merge Sorted Array | Arrays| [Code]() |
 | Day 8 |  Find First and Last Position of Element in Sorted Array| Arrays| [Code]() |

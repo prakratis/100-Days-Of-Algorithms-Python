@@ -21,11 +21,26 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 5 | Max Consecutive Ones | Arrays | [Code](./Day%205/arr485.py) |
 | Day 6 | Single Number | Arrays | [Code](./Day%206/arr136.py) |
 | Day 6 | Contains Duplicate | Arrays | [Code](./Day%206/arr217.py) |
-| Day 7 |  Find All The Numbers Dissapeared In Array | Arrays| [Code](./Day%207/arr448.py) |
-| Day 7 |  Squares Of A Sorted Array | Arrays| [Code](./Day%207/arr977.py) |
-| Day 8 |  Two Sum | Arrays| [Code](./Day%208/arr001.py) |
-| Day 8 | Maximum Subarray| Arrays| [Code](./Day%208/arr053.py)) |
-| Day 8 | Two Sum II - Input Array Is Sorted| Arrays| [Code](./Day%208/arr167.py)) |
+| Day 7 | Find All The Numbers Dissapeared In Array | Arrays| [Code](./Day%207/arr448.py) |
+| Day 7 | Squares Of A Sorted Array | Arrays| [Code](./Day%207/arr977.py) |
+| Day 8 | Two Sum | Arrays| [Code](./Day%208/arr001.py) |
+| Day 8 | Maximum Subarray| Arrays| [Code](./Day%208/arr053.py) |
+| Day 8 | Two Sum II - Input Array Is Sorted| Arrays| [Code](./Day%208/arr167.py) |
+| Day 9 | Find First and Last Position of Element in Sorted Array| Arrays| [Code](./Day%209/arr34.py) |
+| Day 9 | Valid Palindrome| Arrays| [Code](./Day%209/arr125.py) |
+| Day 9 | Reverse String| Strings| [Code](./Day%209/arr344.py) |
+| Day 10 | Best Time to Buy and Sell Stock| Arrays| [Code](./Day%2010/arr121.py) |
+| Day 10 | Maximum Product Subarray| Arrays| [Code](./Day%2010/arr152.py) |
+| Day 11 | Valid Palindrome| Arrays| [Code](./Day%2011/arr125.py) |
+
+
+
+
+
+
+
+
+
 
 
 

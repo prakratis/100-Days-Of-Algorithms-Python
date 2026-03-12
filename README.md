@@ -24,7 +24,10 @@ Solve at least one LeetCode or DSA problem every day for 100 days to build stron
 | Day 7 |  Find All The Numbers Dissapeared In Array | Arrays| [Code](./Day%207/arr448.py) |
 | Day 7 |  Squares Of A Sorted Array | Arrays| [Code](./Day%207/arr977.py) |
 | Day 8 |  Two Sum | Arrays| [Code](./Day%208/arr001.py) |
-| Day 8 |  Find First and Last Position of Element in Sorted Arra| Arrays| [Code]() |
+| Day 8 | Maximum Subarray| Arrays| [Code](./Day%208/arr053.py)) |
+| Day 8 | Two Sum II - Input Array Is Sorted| Arrays| [Code](./Day%208/arr167.py)) |
+
+
 
 
 
